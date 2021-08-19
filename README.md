@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @gustavohms Gustavo Henrique
 - 👀 I’m interested in develop projects capable of innovating and improving our society 
-- 🌱 I’m currently learning Elixir
 - 📫 How to reach me 
   Instagram: @gustavohenriquebjj
   
